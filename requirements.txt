@@ -23,7 +23,7 @@ django-taggit-autosuggest==0.2.6
 easy-thumbnails==2.2
 gunicorn==19.3.0
 python-decouple==3.0
-python-ldap==3.1.0
+python-ldap==3.4.0
 python-memcached==1.57
 pytz==2015.7
 psycopg2==2.7.3.1
